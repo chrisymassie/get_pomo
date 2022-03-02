@@ -50,16 +50,3 @@ TODO
 ====
  - extracting of version/pluralisation_rule/plurals/translator... (from msgid "")
  - the vendor/mofile is really complex, maybe it can be refactored (also some parts are not needed)
-
-Authors
-=======
-
-### [Contributors](https://github.com/grosser/get_pomo/contributors)
- - [Dennis-Florian Herr](https://github.com/dfherr)
- - [Felipe Tanus](https://github.com/fotanus)
- - [Laurent Dang](https://github.com/haeky)
-
-[Michael Grosser](http://grosser.it)<br/>
-michael@grosser.it<br/>
-License: MIT<br/>
-[![Build Status](https://travis-ci.org/grosser/get_pomo.png)](https://travis-ci.org/grosser/get_pomo)
